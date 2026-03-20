@@ -2,7 +2,7 @@
 
 ## Description
 
-This project performs Sentiment Analysis on product reviews using Natural Language Processing (NLP) and Machine Learning techniques.  
+This project performs Sentiment Analysis on Amazon product reviews using Natural Language Processing (NLP) and Machine Learning techniques.  
 The goal of the project is to build a model that can predict whether a review is positive, negative or neutral.
 
 The dataset contains cleaned product reviews along with sentiment labels.  
